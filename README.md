@@ -6,6 +6,5 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/Esteban-M1000/Sistema-Picas/assets/112291940/66b82231-993e-48cd-bd78-e8ca7a4d4f83" alt="Sistema Picas y Fijas">
+  <img src="https://github.com/Esteban-M1000/Picas-and-Fixed-System/assets/112291940/ede22faf-4c61-423f-8d07-74cb5b28cb58" alt="Sistema Picas y Fijas">
 </p>
-
