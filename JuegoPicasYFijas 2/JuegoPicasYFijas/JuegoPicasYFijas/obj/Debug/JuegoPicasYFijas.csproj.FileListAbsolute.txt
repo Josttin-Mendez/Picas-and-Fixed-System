@@ -1,0 +1,38 @@
+D:\Visual Studio proyectos\JuegoPicasYFijas\JuegoPicasYFijas\bin\Debug\JuegoPicasYFijas.exe.config
+D:\Visual Studio proyectos\JuegoPicasYFijas\JuegoPicasYFijas\bin\Debug\JuegoPicasYFijas.exe
+D:\Visual Studio proyectos\JuegoPicasYFijas\JuegoPicasYFijas\bin\Debug\JuegoPicasYFijas.pdb
+D:\Visual Studio proyectos\JuegoPicasYFijas\JuegoPicasYFijas\bin\Debug\Guna.UI2.dll
+D:\Visual Studio proyectos\JuegoPicasYFijas\JuegoPicasYFijas\bin\Debug\Transitions.dll
+D:\Visual Studio proyectos\JuegoPicasYFijas\JuegoPicasYFijas\bin\Debug\Transitions.pdb
+D:\Visual Studio proyectos\JuegoPicasYFijas\JuegoPicasYFijas\obj\Debug\JuegoPicasYFijas.csproj.AssemblyReference.cache
+D:\Visual Studio proyectos\JuegoPicasYFijas\JuegoPicasYFijas\obj\Debug\JuegoPicasYFijas.csproj.SuggestedBindingRedirects.cache
+D:\Visual Studio proyectos\JuegoPicasYFijas\JuegoPicasYFijas\obj\Debug\JuegoPicasYFijas.Configuracion.resources
+D:\Visual Studio proyectos\JuegoPicasYFijas\JuegoPicasYFijas\obj\Debug\JuegoPicasYFijas.Form1.resources
+D:\Visual Studio proyectos\JuegoPicasYFijas\JuegoPicasYFijas\obj\Debug\JuegoPicasYFijas.Juego.resources
+D:\Visual Studio proyectos\JuegoPicasYFijas\JuegoPicasYFijas\obj\Debug\JuegoPicasYFijas.Properties.Resources.resources
+D:\Visual Studio proyectos\JuegoPicasYFijas\JuegoPicasYFijas\obj\Debug\JuegoPicasYFijas.csproj.GenerateResource.cache
+D:\Visual Studio proyectos\JuegoPicasYFijas\JuegoPicasYFijas\obj\Debug\JuegoPicasYFijas.csproj.CoreCompileInputs.cache
+D:\Visual Studio proyectos\JuegoPicasYFijas\JuegoPicasYFijas\obj\Debug\JuegoPicasYFijas.csproj.CopyComplete
+D:\Visual Studio proyectos\JuegoPicasYFijas\JuegoPicasYFijas\obj\Debug\JuegoPicasYFijas.exe
+D:\Visual Studio proyectos\JuegoPicasYFijas\JuegoPicasYFijas\obj\Debug\JuegoPicasYFijas.pdb
+C:\Users\LENOVO\Downloads\JuegoPicasYFijas 2\JuegoPicasYFijas\JuegoPicasYFijas\bin\Debug\JuegoPicasYFijas.exe.config
+C:\Users\LENOVO\Downloads\JuegoPicasYFijas 2\JuegoPicasYFijas\JuegoPicasYFijas\bin\Debug\JuegoPicasYFijas.exe
+C:\Users\LENOVO\Downloads\JuegoPicasYFijas 2\JuegoPicasYFijas\JuegoPicasYFijas\bin\Debug\JuegoPicasYFijas.pdb
+C:\Users\LENOVO\Downloads\JuegoPicasYFijas 2\JuegoPicasYFijas\JuegoPicasYFijas\bin\Debug\Guna.UI2.dll
+C:\Users\LENOVO\Downloads\JuegoPicasYFijas 2\JuegoPicasYFijas\JuegoPicasYFijas\bin\Debug\Transitions.dll
+C:\Users\LENOVO\Downloads\JuegoPicasYFijas 2\JuegoPicasYFijas\JuegoPicasYFijas\bin\Debug\Transitions.pdb
+C:\Users\LENOVO\Downloads\JuegoPicasYFijas 2\JuegoPicasYFijas\JuegoPicasYFijas\obj\Debug\JuegoPicasYFijas.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Downloads\JuegoPicasYFijas 2\JuegoPicasYFijas\JuegoPicasYFijas\obj\Debug\JuegoPicasYFijas.csproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO\Downloads\JuegoPicasYFijas 2\JuegoPicasYFijas\JuegoPicasYFijas\obj\Debug\JuegoPicasYFijas.Form1.resources
+C:\Users\LENOVO\Downloads\JuegoPicasYFijas 2\JuegoPicasYFijas\JuegoPicasYFijas\obj\Debug\JuegoPicasYFijas.Juego.resources
+C:\Users\LENOVO\Downloads\JuegoPicasYFijas 2\JuegoPicasYFijas\JuegoPicasYFijas\obj\Debug\JuegoPicasYFijas.Properties.Resources.resources
+C:\Users\LENOVO\Downloads\JuegoPicasYFijas 2\JuegoPicasYFijas\JuegoPicasYFijas\obj\Debug\JuegoPicasYFijas.csproj.GenerateResource.cache
+C:\Users\LENOVO\Downloads\JuegoPicasYFijas 2\JuegoPicasYFijas\JuegoPicasYFijas\obj\Debug\JuegoPicasYFijas.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\JuegoPicasYFijas 2\JuegoPicasYFijas\JuegoPicasYFijas\obj\Debug\JuegoPicasYFijas.csproj.CopyComplete
+C:\Users\LENOVO\Downloads\JuegoPicasYFijas 2\JuegoPicasYFijas\JuegoPicasYFijas\obj\Debug\JuegoPicasYFijas.exe
+C:\Users\LENOVO\Downloads\JuegoPicasYFijas 2\JuegoPicasYFijas\JuegoPicasYFijas\obj\Debug\JuegoPicasYFijas.pdb
+C:\Users\LENOVO\Downloads\JuegoPicasYFijas 2\JuegoPicasYFijas\JuegoPicasYFijas\obj\Debug\JuegoPicasYFijas.Configuración.resources
+C:\Users\LENOVO\Downloads\JuegoPicasYFijas 2\JuegoPicasYFijas\JuegoPicasYFijas\bin\Debug\JuegoPicasYFijas.exe.manifest
+C:\Users\LENOVO\Downloads\JuegoPicasYFijas 2\JuegoPicasYFijas\JuegoPicasYFijas\bin\Debug\JuegoPicasYFijas.application
+C:\Users\LENOVO\Downloads\JuegoPicasYFijas 2\JuegoPicasYFijas\JuegoPicasYFijas\obj\Debug\JuegoPicasYFijas.exe.manifest
+C:\Users\LENOVO\Downloads\JuegoPicasYFijas 2\JuegoPicasYFijas\JuegoPicasYFijas\obj\Debug\JuegoPicasYFijas.application
